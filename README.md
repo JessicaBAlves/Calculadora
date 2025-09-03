@@ -30,7 +30,7 @@ Interface em **modo escuro** 🖤 e totalmente responsiva.
 
 <img width="1087" height="914" alt="image" src="https://github.com/user-attachments/assets/8e1886b7-7ce9-4e22-8c62-c0e8e693f41c" />
 
-
+visite o site: (https://jessicabalves.github.io/calculadora/)
 ---
 
 ## 🛠️ Como rodar o projeto localmente
