@@ -33,7 +33,6 @@ Interface em **modo escuro** 🖤 e totalmente responsiva.
 visite o site: (https://jessicabalves.github.io/calculadora/)
 ---
 
-## 🛠️ Como rodar o projeto localmente
 
 Clone este repositório:
 
